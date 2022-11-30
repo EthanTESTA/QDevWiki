@@ -33,7 +33,12 @@ Un Design Pattern, ou aussi appelé Patron de conception, est un arrangement de 
 ## <a id="deco" /> Le Design Pattern : Décorateur 
 
 
-### Définition  
+### Définition
+Le Décorateur appartient à la famille des design patterns structurels.
+
+L’avantage du Design Pattern Décorateur est qu’il permet d'ajouter (et de supprimer) facilement des nouvelles fonctionnalités qu’on souhaite intégrer à une classe, et tout ça de façon dynamique sans impacter les classes qui l’utilisent ou en héritent.
+
+Ce pattern apporte plus de souplesse que l’héritage.
 
 ### Cas d'utilisation  
 
