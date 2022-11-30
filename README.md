@@ -1,7 +1,7 @@
 # Les Design Patterns
 ---
 
- **Equipe** : 
+ ### **Equipe** : 
 - Elisée **LEYDIER**
 - Ethan **TESTA**
 - Lucas **MURATET**
@@ -33,21 +33,21 @@ Un Design Pattern, ou aussi appelé Patron de conception, est un arrangement de 
 ## <a id="deco" /> Le Design Pattern : Décorateur 
 
 
-### Définition
+### Définition  
 
-### Cas d'utilisation
+### Cas d'utilisation  
 
-### Exemple
+### Exemple  
 
 ---
 
 ## <a id="mvc" /> Le Modèle-Vue-Contrôleur
 
-### Définition
+### Définition  
 
-### Cas d'utilisation
+### Cas d'utilisation  
 
-### Exemple
+### Exemple  
 
 ---
  
