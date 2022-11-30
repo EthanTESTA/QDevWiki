@@ -2,12 +2,12 @@
 ---
 
  **Equipe** : 
-- Elisée LEYDIER
-- Ethan TESTA
-- Lucas MURATET
-- Aurélien MATTERA
-- Mathieu YAHIA-AMAR
-- Paul BIGA
+- Elisée **LEYDIER**
+- Ethan **TESTA**
+- Lucas **MURATET**
+- Aurélien **MATTERA**
+- Mathieu **YAHIA-AMAR**
+- Paul **BIGA**
 ---
 
 ### Introduction
