@@ -48,7 +48,19 @@ Ce pattern apporte plus de souplesse que l’héritage.
 
 ## <a id="mvc" /> Le Modèle-Vue-Contrôleur
 
-### Définition  
+### Définition
+Le pattern MVC (Modèle-Vue-Contrôleur) permet d’organiser de façon efficace son code source. Il aide à définir leur rôle et s’organiser. L'intérêt est de détacher le code en trois parties dans 3 fichiers distincts.
+
+Les 3 parties du MVC sont :
+
+Le **Modèle** : 
+Le modèle est l’élément qui contient les données ainsi que de la logique en rapport avec les données. Il permet de contenir des informations sous différentes formes (SQL…). La logique permet par exemple de sécuriser une mise à jour d’une valeur (condition…).
+
+La **Vue** :
+La vue contient des éléments visuels provenant du modèle (est peut être un diagramme, un formulaire, des boutons, etc. Elle peut également mettre à jour le modèle en envoyant des requêtes appropriées. Par exemple, une application web avec une vue possédant des balises HTML.
+
+Le **Contrôleur** :
+Le contrôleur permet de traiter les actions de l'utilisateur qui modifient les données du modèle et de la vue.
 
 ### Cas d'utilisation  
 
