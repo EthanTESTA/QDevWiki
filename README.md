@@ -1,13 +1,13 @@
 # Les Design Patterns
 ---
 
- ### **Equipe** : 
-- Elisée **LEYDIER**
-- Ethan **TESTA**
-- Lucas **MURATET**
-- Aurélien **MATTERA**
-- Mathieu **YAHIA-AMAR**
-- Paul **BIGA**
+ ### **Equipe et Rôles** : 
+- Elisée **LEYDIER** (Animateur)
+- Ethan **TESTA** (Gestionnaire de temps)
+- Lucas **MURATET** (Animateur)
+- Aurélien **MATTERA** (Scribe)
+- Mathieu **YAHIA-AMAR** (Secrétaire)
+- Paul **BIGA** 
 ---
 
 ### Introduction
