@@ -63,6 +63,8 @@ Le **Contrôleur** :
 Le contrôleur permet de traiter les actions de l'utilisateur qui modifient les données du modèle et de la vue.
 
 ### Cas d'utilisation  
+Le MVC est souvent utilisé dans des frameworks comme par exemple : 
+AngularJs (framework pour applications web développé par Google) ou bien Grails (basé sur le langage Groovy, est un framework pour les applications web).
 
 ### Exemple  
 
