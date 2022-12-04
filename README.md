@@ -75,11 +75,13 @@ AngularJs (framework pour applications web développé par Google) ou bien Grail
 ---
  
 ## <a id="sources" /> Sources  
-MVC:  
+
+Décorateur :  
+[Décorateur (patron de conception) — Wikipédia](https://fr.wikipedia.org/wiki/D%C3%A9corateur_(patron_de_conception))  
+[Le design pattern Decorator (Décorateur) | Le blog de Cellenza](https://blog.cellenza.com/developpement-specifique/le-design-pattern-decorator-decorateur/)  
+
+MVC :  
 [Modèle-vue-contrôleur — Wikipédia](https://fr.wikipedia.org/wiki/Mod%C3%A8le-vue-contr%C3%B4leur)  
 [Découvrez comment fonctionne une architecture MVC](https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-php/7847928-decouvrez-comment-fonctionne-une-architecture-mvc)  
 
-Decorateur:  
-[Décorateur (patron de conception) — Wikipédia](https://fr.wikipedia.org/wiki/D%C3%A9corateur_(patron_de_conception))  
-[Le design pattern Decorator (Décorateur) | Le blog de Cellenza](https://blog.cellenza.com/developpement-specifique/le-design-pattern-decorator-decorateur/)  
 
