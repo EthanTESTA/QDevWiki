@@ -41,6 +41,7 @@ L’avantage du Design Pattern Décorateur est qu’il permet d'ajouter (et de s
 Ce pattern apporte plus de souplesse que l’héritage.
 
 ### Cas d'utilisation  
+Le design pattern Décorateur est souvent utilisé pour des classes qui sont sujets à évoluer fortement et permet de créer des sous-classes qui ne se bloquent pas lorsqu'on fait évoluer le code.
 
 ### Exemple  
 
