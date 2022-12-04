@@ -44,6 +44,8 @@ Ce pattern apporte plus de souplesse que l’héritage.
 
 ### Exemple  
 
+[Exemple de Desgin pattern : Décorateur](https://github.com/EthanTESTA/QDevWiki/tree/main/Decorateur)  
+
 ---
 
 ## <a id="mvc" /> Le Modèle-Vue-Contrôleur
@@ -67,6 +69,8 @@ Le MVC est souvent utilisé dans des frameworks comme par exemple :
 AngularJs (framework pour applications web développé par Google) ou bien Grails (basé sur le langage Groovy, est un framework pour les applications web).
 
 ### Exemple  
+
+[Exemple de Modèle-Vue-Contrôleur](https://github.com/EthanTESTA/QDevWiki/tree/main/MVC)  
 
 ---
  
