@@ -9,10 +9,10 @@ public class Convertisseur {
     public double getEuro() {
         return euro;
     }
-    
-    pulic void setEuro(double montant){
-        this.euro = montant.
-        
+
+    public void setEuro(double montant){
+        this.euro = montant;
+
     }
     public double getDollars() {
         return euro * 1.04;
